@@ -183,12 +183,12 @@ const persona = {
 y asignarlos a variables individuales, de la siguiente manera: */
 
 
-const { nombre, anios, ciudad } = persona;
+/* const { nombre, anios, ciudad } = persona;
 
 console.log(nombre); // 'Juan'
 console.log(anios); // 30
 console.log(ciudad); // 'Buenos Aires'
-
+ */
 
 /* De esta forma, extraemos los valores de las propiedades nombre, edad y ciudad del objeto persona 
 y los asignamos a las variables nombre, edad y ciudad respectivamente. 
