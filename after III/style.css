@@ -1,0 +1,72 @@
+body{
+    background-color: #90caf9;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    transition: all 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px #7fbf7f;
+  }
+  
+  #filtrar {
+    background-color: #f44336;
+  }
+  
+  #filtrar:hover {
+    background-color: #c9b744;
+    color: black;
+  }
+  
+  #filtrar:focus {
+    box-shadow: 0 0 0 3px #ff8a80;
+  }
+  
+  #agregar {
+    background-color: #2196F3;
+  }
+  
+  #agregar:hover {
+    background-color: #1976D2;
+    color: black;
+  }
+  
+  .card {
+    background-color: #17b1ee;
+    text-align: center;
+    
+  }
+  
+
+  
+  /* Estilos para el botón */
+  .btn-cerrar {
+    margin-top: 20px;
+    background-color: #f44336;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .btn-cerrar:hover {
+    background-color: #d32f2f;
+  } 
+
+  
