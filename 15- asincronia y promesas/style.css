@@ -1,0 +1,13 @@
+.popup-active{
+    position: fixed;
+    top:50%;
+    left:50%;
+    background-color: red;
+    padding: 20px;
+    border-radius: 10px;
+    display: none;
+}
+
+#popup-mensaje.popup-active{
+    display: block;
+}
