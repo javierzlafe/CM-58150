@@ -1,0 +1,29 @@
+{
+    "frutas": [
+      {
+        "nombre": "Manzana",
+        "color": "Rojo",
+        "sabor": "Dulce"
+      },
+      {
+        "nombre": "Plátano",
+        "color": "Amarillo",
+        "sabor": "Dulce"
+      },
+      {
+        "nombre": "Naranja",
+        "color": "Naranja",
+        "sabor": "Cítrico"
+      },
+      {
+        "nombre": "Uva",
+        "color": "Morado",
+        "sabor": "Dulce"
+      },
+      {
+        "nombre": "Kiwi",
+        "color": "Verde",
+        "sabor": "Ácido"
+      }
+    ]
+  }
